@@ -1,0 +1,41 @@
+def organise_data(file):
+
+data = { season1:
+
+	 {match: {
+		1:
+			{[home team, away team, home_goals, away_goals]
+			 }
+		2:	 {(...)}
+		},
+
+		 season2:
+     {match: {
+	    1:
+			{[home team, away team, home_goals, away_goals]
+	     	 }
+	    2:	 {(...)}
+	   }
+	      	}
+
+def allocate_points_and_goaldiff(data, season):
+
+	dict = {
+		team1: {games, wins, losses, draws, points, goaldiff}
+		team2: {games, wins, losses, draws, points, goaldiff}
+	}
+
+	return dict
+
+def construct_table(dict):
+	# organising the table from top to bottom based on points and goaldiff:
+	table_dict = {
+		team1: {games, wins, losses, draws, points, goaldiff}
+		(...)
+		team20: {games, wins, losses, draws, points, goaldiff}
+	}
+
+def visualise_table()
+	# print output.
+
+def test_table(data)
