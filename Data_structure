@@ -35,7 +35,9 @@ def construct_table(dict):
 		team20: {games, wins, losses, draws, points, goaldiff}
 	}
 
-def visualise_table()
+def visualise_table():
 	# print output.
-
-def test_table(data)
+	None
+	
+def test_table(data):
+	None
