@@ -1,1 +1,12 @@
+def organise_data(file):
+  None
+def allocate_points_and_goaldiff(data, season):
+  None
+def construct_table(dict):
+  None
 
+def visualise_table():
+	None
+	
+def test_table(data):
+	None
