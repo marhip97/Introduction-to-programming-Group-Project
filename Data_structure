@@ -42,7 +42,7 @@ def test_table(data):
 	# Here we need to obtain files with the actual tables. Someone of us has to create such file. 
 	None
 	
-	
+"--------------------------------------------------------------------------------------------------------------------"
 
 # Example of returning code structure from organize_data():
 dict1 = { "2018/2019":
