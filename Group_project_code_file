@@ -1,5 +1,31 @@
-def organise_data(file):
-  None
+data = open("data_revised.csv", "r")
+
+def organise_data(data):
+    dict1 = {}
+    number = 0
+    for i in data:
+        if number == 0:
+            number +=1
+        else:
+            line = i.strip().split(",")
+            Home_team = line[1]
+            Away_team = line[2]
+            GH = line[3]
+            GA = line[4]
+            YH = line[5]
+            YA = line[6]
+
+            dict1[number] = [Home_team, Away_team, GH, GA, YH, YA]
+
+            number += 1
+        
+    return dict1
+
+season_18_19 = organise_data(data)
+
+
+
+
 def allocate_points_and_goaldiff(data, season):
   None
 def construct_table(dict):
