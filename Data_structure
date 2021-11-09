@@ -1,47 +1,37 @@
 def organise_data(file):
 
-data = { season1:
-
-	 {match: {
-		1:
-			{[home team, away team, home_goals, away_goals]
-			 }
-		2:	 {(...)}
-		},
-
-		 season2:
-     {match: {
-	    1:
-			{[home team, away team, home_goals, away_goals]
-	     	 }
-	    2:	 {(...)}
-	   }
-	      	}
+    data = {season1:
+             {matches: {
+        	    1: [home_team, away_team, home_goals, away_goals],
+        	    2: [home_team, away_team, home_goals, away_goals]},
+  	    season2:
+             {matches: {
+        	    1:[home_team, away_team, home_goals, away_goals],
+        	    2: [home_team, away_team, home_goals, away_goals]}}}}
 
 def allocate_points_and_goaldiff(data, season):
 
 	dict = {
-		team1: {games, wins, losses, draws, points, goaldiff}
-		team2: {games, wins, losses, draws, points, goaldiff}
-	}
+		team1: [games, wins, losses, draws, points, goaldiff],
+		team2: [games, wins, losses, draws, points, goaldiff]}
 
 	return dict
 
 def construct_table(dict):
 	# organising the table from top to bottom based on points and goaldiff:
 	table_dict = {
-		team1: {games, wins, losses, draws, points, goaldiff}
-		(...)
-		team20: {games, wins, losses, draws, points, goaldiff}
-	}
+		team1: [games, wins, losses, draws, points, goaldiff],
+		team2: [games, wins, losses, draws, points, goaldiff],
+        team3: [games, wins, losses, draws, points, goaldiff],
+		team4: [games, wins, losses, draws, points, goaldiff]}
 
 def visualise_table(table_dict):
 	None
-	
+
 def test_table(data):
-	# Here we need to obtain files with the actual tables. Someone of us has to create such file. 
+	# Here we need to obtain files with the actual tables. Someone of us has to create such file.
 	None
-	
+
 "--------------------------------------------------------------------------------------------------------------------"
 
 # Example of returning code structure from organize_data():
