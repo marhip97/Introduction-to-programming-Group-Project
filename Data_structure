@@ -35,9 +35,38 @@ def construct_table(dict):
 		team20: {games, wins, losses, draws, points, goaldiff}
 	}
 
-def visualise_table():
-	# print output.
+def visualise_table(table_dict):
 	None
 	
 def test_table(data):
+	# Here we need to obtain files with the actual tables. Someone of us has to create such file. 
 	None
+	
+	
+
+# Example of returning code structure from organize_data():
+dict1 = { "2018/2019":
+	 {"matches": {
+		1:["liverpool","manchester united",3,2],
+		2:["chelsea", "tottenham",2,1]}},
+		 "2017/2018":
+     {"matches": {
+	    1:["chelsea", "tottenham", 2, 4],
+	    2:["machester United", "chelsea",2,2]}
+	   }}
+
+
+# Example of returning code structure from allocate_points_and_goaldiff():
+dict2 = {
+		"liverpool": [38, 29, 5, 4, 91, 21],
+        "tottenham": [38, 25, 3, 10, 85, 2],
+        "chelsea": [38, 25, 3, 10, 85, 3],
+        "burnley": [38, 10, 25, 3, 33, -21],
+        "aton villa ": [38, 10, 25, 3, 33, -20]}
+
+# Example of returning code structure from construct_table():
+dict3 = {"liverpool": [38, 29, 5, 4, 91, 21],
+		"chelsea": [38, 25, 3, 10, 85, 3],
+		"tottenham": [38, 25, 3, 10, 85, 2],
+        "aton villa ": [38, 10, 25, 3, 33, -20],
+        "burnley": [38, 10, 25, 3, 33, -21]}
