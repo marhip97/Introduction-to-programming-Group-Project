@@ -1,6 +1,5 @@
-data = open("data_revised.csv", "r")
-
 def organise_data(data):
+    data = open(data, "r")
     dict1 = {}
     number = 0
     for i in data:
@@ -14,15 +13,15 @@ def organise_data(data):
             GA = line[4]
             YH = line[5]
             YA = line[6]
-
             dict1[number] = [Home_team, Away_team, GH, GA, YH, YA]
-
             number += 1
         
     return dict1
 
-season_18_19 = organise_data(data)
-
+# Calling for the organise_function and store the returning dict to the following three variables:
+season_16_17 = organise_data("16_17_revised.csv")
+season_17_18 = organise_data("17_18_revised.csv")
+season_18_19 = organise_data("18_19_revised.csv")
 
 
 
