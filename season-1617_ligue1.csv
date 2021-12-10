@@ -1,381 +1,381 @@
-0;HomeTeam;AwayTeam;FTHG;FTAG;HY;AY
-1;Bastia;Paris SG;0;1;3;3
-2;Monaco;Guingamp;2;2;3;4
-3;Bordeaux;St Etienne;3;2;1;2
-4;Caen;Lorient;3;2;1;2
-5;Dijon;Nantes;0;1;0;2
-6;Metz;Lille;3;2;2;2
-7;Montpellier;Angers;1;0;1;2
-8;Marseille;Toulouse;0;0;3;1
-9;Nancy;Lyon;0;3;4;2
-10;Nice;Rennes;1;0;0;1
-11;Lyon;Caen;2;0;3;4
-12;Angers;Nice;0;1;1;2
-13;Lille;Dijon;1;0;1;2
-14;Lorient;Bastia;0;3;2;4
-15;Nantes;Monaco;0;1;2;4
-16;Rennes;Nancy;2;0;4;2
-17;Toulouse;Bordeaux;4;1;1;3
-18;Guingamp;Marseille;2;1;0;1
-19;Paris SG;Metz;3;0;1;1
-20;St Etienne;Montpellier;3;1;1;1
-21;Marseille;Lorient;2;0;1;1
-22;Caen;Bastia;2;0;1;5
-23;Dijon;Lyon;4;2;2;2
-24;Metz;Angers;2;0;2;2
-25;Montpellier;Rennes;1;1;1;2
-26;Nancy;Guingamp;0;2;2;1
-27;Nice;Lille;1;1;2;2
-28;Bordeaux;Nantes;1;0;2;1
-29;Monaco;Paris SG;3;1;1;2
-30;St Etienne;Toulouse;0;0;2;1
-31;Paris SG;St Etienne;1;1;2;4
-32;Angers;Dijon;3;1;1;2
-33;Bastia;Toulouse;2;1;4;4
-34;Guingamp;Montpellier;1;1;1;1
-35;Lille;Monaco;1;4;3;1
-36;Lorient;Nancy;0;2;0;5
-37;Lyon;Bordeaux;1;3;2;1
-38;Nantes;Metz;0;3;1;4
-39;Nice;Marseille;3;2;2;3
-40;Rennes;Caen;2;0;2;1
-41;Caen;Paris SG;0;6;1;1
-42;Bordeaux;Angers;0;1;0;4
-43;Dijon;Metz;0;0;4;3
-44;Lorient;Lille;1;0;2;2
-45;Monaco;Rennes;3;0;1;1
-46;Nancy;Nantes;1;1;0;0
-47;Toulouse;Guingamp;2;1;4;3
-48;Marseille;Lyon;0;0;3;2
-49;Montpellier;Nice;1;1;1;1
-50;St Etienne;Bastia;1;0;2;4
-51;Lille;Toulouse;1;2;2;5
-52;Paris SG;Dijon;3;0;1;0
-53;Angers;Caen;2;1;0;1
-54;Bastia;Nancy;0;0;0;0
-55;Guingamp;Lorient;1;0;1;2
-56;Lyon;Montpellier;5;1;0;1
-57;Metz;Bordeaux;0;3;2;0
-58;Nantes;St Etienne;0;0;4;0
-59;Nice;Monaco;4;0;1;1
-60;Rennes;Marseille;3;2;1;1
-61;Toulouse;Paris SG;2;0;3;1
-62;Bastia;Guingamp;1;0;1;1
-63;Bordeaux;Caen;0;0;0;2
-64;Dijon;Rennes;3;0;1;1
-65;Lorient;Lyon;1;0;2;1
-66;Monaco;Angers;2;1;1;1
-67;Montpellier;Metz;0;1;2;3
-68;Marseille;Nantes;2;1;1;3
-69;Nancy;Nice;0;1;3;1
-70;St Etienne;Lille;3;1;3;1
-71;Rennes;Guingamp;1;0;2;1
-72;Caen;Toulouse;1;0;1;6
-73;Dijon;Montpellier;3;3;2;2
-74;Lille;Nancy;1;0;2;3
-75;Metz;Monaco;0;7;2;1
-76;Nantes;Bastia;1;0;4;3
-77;Paris SG;Bordeaux;2;0;1;1
-78;Angers;Marseille;1;1;1;0
-79;Lyon;St Etienne;2;0;3;1
-80;Nice;Lorient;2;1;2;3
-81;Nice;Lyon;2;0;3;3
-82;Toulouse;Monaco;3;1;2;1
-83;Bastia;Angers;1;2;2;0
-84;Guingamp;Lille;1;0;1;0
-85;Lorient;Nantes;1;2;4;4
-86;Montpellier;Caen;3;2;0;0
-87;Nancy;Paris SG;1;2;1;1
-88;Marseille;Metz;1;0;1;2
-89;Rennes;Bordeaux;1;1;1;2
-90;St Etienne;Dijon;1;1;1;3
-91;Monaco;Montpellier;6;2;2;0
-92;Angers;Toulouse;0;0;2;4
-93;Bordeaux;Nancy;1;1;1;3
-94;Dijon;Lorient;1;0;1;2
-95;Lille;Bastia;2;1;3;1
-96;Lyon;Guingamp;1;3;1;3
-97;Nantes;Rennes;1;2;1;3
-98;Caen;St Etienne;0;2;1;1
-99;Metz;Nice;2;4;4;0
-100;Paris SG;Marseille;0;0;0;2
-101;Lille;Paris SG;0;1;2;1
-102;Bastia;Dijon;0;0;1;1
-103;Guingamp;Angers;1;0;1;3
-104;Lorient;Montpellier;2;2;2;1
-105;Nancy;Caen;2;0;3;3
-106;St Etienne;Monaco;1;1;0;4
-107;Toulouse;Lyon;1;2;2;2
-108;Marseille;Bordeaux;0;0;1;1
-109;Nice;Nantes;4;1;1;3
-110;Rennes;Metz;1;0;0;3
-111;Montpellier;Marseille;3;1;1;1
-112;Angers;Lille;1;0;0;0
-113;Bordeaux;Lorient;2;1;3;2
-114;Dijon;Guingamp;3;3;0;1
-115;Lyon;Bastia;2;1;1;2
-116;Monaco;Nancy;6;0;0;1
-117;Nantes;Toulouse;1;1;4;2
-118;Caen;Nice;1;0;2;3
-119;Metz;St Etienne;0;0;2;0
-120;Paris SG;Rennes;4;0;1;2
-121;Lille;Lyon;0;1;2;3
-122;Lorient;Monaco;0;3;0;1
-123;Bastia;Montpellier;1;1;2;0
-124;Nancy;Dijon;1;0;1;3
-125;Paris SG;Nantes;2;0;0;1
-126;Rennes;Angers;1;1;2;2
-127;Toulouse;Metz;1;2;0;1
-128;Guingamp;Bordeaux;1;1;2;1
-129;Marseille;Caen;1;0;2;1
-130;St Etienne;Nice;0;1;2;1
-131;Rennes;Toulouse;1;0;2;2
-132;Bordeaux;Dijon;3;2;0;2
-133;Caen;Guingamp;1;1;0;2
-134;Metz;Lorient;3;3;2;2
-135;Monaco;Marseille;4;0;1;2
-136;Montpellier;Nancy;0;0;2;3
-137;Nantes;Lille;0;0;1;2
-138;Angers;St Etienne;1;2;3;3
-139;Lyon;Paris SG;1;2;1;6
-140;Nice;Bastia;1;1;0;3
-141;Dijon;Monaco;1;1;2;0
-142;Lille;Caen;4;2;0;1
-143;Lorient;Rennes;2;1;1;1
-144;Bastia;Bordeaux;1;1;2;4
-145;Guingamp;Nice;0;1;2;1
-146;Nancy;Metz;4;0;5;2
-147;Nantes;Lyon;0;6;1;1
-148;Paris SG;Angers;2;0;2;1
-149;St Etienne;Marseille;0;0;0;1
-150;Toulouse;Montpellier;1;0;2;3
-151;Caen;Dijon;3;3;4;2
-152;Angers;Lorient;2;2;0;1
-153;Bordeaux;Lille;0;1;2;4
-154;Guingamp;Nantes;2;0;0;2
-155;Monaco;Bastia;5;0;3;3
-156;Montpellier;Paris SG;3;0;0;2
-157;Marseille;Nancy;3;0;1;1
-158;Nice;Toulouse;3;0;0;2
-159;Rennes;St Etienne;2;0;3;2
-160;Bastia;Metz;2;0;2;2
-161;Bordeaux;Monaco;0;4;3;1
-162;Dijon;Marseille;1;2;1;2
-163;Lille;Montpellier;2;1;1;1
-164;Nancy;Angers;2;0;1;1
-165;Toulouse;Lorient;3;2;2;0
-166;Lyon;Rennes;1;0;3;0
-167;Paris SG;Nice;2;2;2;3
-168;St Etienne;Guingamp;1;0;0;2
-169;Angers;Nantes;0;2;1;3
-170;Guingamp;Paris SG;2;1;0;0
-171;Lorient;St Etienne;2;1;4;2
-172;Montpellier;Bordeaux;4;0;2;2
-173;Rennes;Bastia;1;2;1;0
-174;Toulouse;Nancy;1;1;1;3
-175;Caen;Metz;3;0;2;3
-176;Marseille;Lille;2;0;0;0
-177;Monaco;Lyon;1;3;4;2
-178;Nice;Dijon;2;1;1;3
-179;Bastia;Marseille;1;2;1;3
-180;Bordeaux;Nice;0;0;2;2
-181;Dijon;Toulouse;2;0;2;4
-182;Lille;Rennes;1;1;1;1
-183;Lyon;Angers;2;0;0;2
-184;Metz;Guingamp;2;2;2;1
-185;Monaco;Caen;2;1;3;0
-186;Nantes;Montpellier;1;0;2;0
-187;Paris SG;Lorient;5;0;0;1
-188;St Etienne;Nancy;0;0;1;1
-189;Lille;St Etienne;1;1;0;3
-190;Angers;Bordeaux;1;1;4;3
-191;Lorient;Guingamp;3;1;2;3
-192;Montpellier;Dijon;1;1;0;0
-193;Nancy;Bastia;1;0;2;0
-194;Rennes;Paris SG;0;1;0;2
-195;Toulouse;Nantes;0;1;1;3
-196;Caen;Lyon;3;2;3;3
-197;Marseille;Monaco;1;4;1;1
-198;Nice;Metz;0;0;2;1
-199;Nantes;Caen;1;0;2;2
-200;Bastia;Nice;1;1;1;0
-201;Bordeaux;Toulouse;1;0;2;1
-202;Dijon;Lille;0;0;2;2
-203;Guingamp;Rennes;1;1;2;2
-204;Metz;Montpellier;2;0;1;2
-205;Nantes;Paris SG;0;2;2;1
-206;Lyon;Marseille;3;1;1;2
-207;Monaco;Lorient;4;0;1;1
-208;St Etienne;Angers;2;1;2;3
-209;Marseille;Montpellier;5;1;1;1
-210;Angers;Metz;2;1;0;0
-211;Bastia;Caen;1;1;2;2
-212;Lorient;Dijon;2;3;4;3
-213;Lyon;Lille;1;2;1;3
-214;Nancy;Bordeaux;0;2;0;2
-215;Rennes;Nantes;1;1;3;1
-216;Nice;Guingamp;3;1;3;3
-217;Paris SG;Monaco;1;1;0;1
-218;Toulouse;St Etienne;0;3;2;4
-219;Metz;Marseille;1;0;1;3
-220;Bordeaux;Rennes;1;1;1;1
-221;Dijon;Paris SG;1;3;1;2
-222;Guingamp;Caen;0;1;1;2
-223;Lille;Lorient;0;1;1;1
-224;Monaco;Nice;3;0;1;1
-225;Montpellier;Bastia;2;1;3;1
-226;Nantes;Nancy;0;2;2;1
-227;St Etienne;Lyon;2;0;2;2
-228;Toulouse;Angers;4;0;2;4
-229;Caen;Bordeaux;0;4;1;1
-230;Montpellier;Monaco;1;2;1;1
-231;Paris SG;Lille;2;1;1;3
-232;Angers;Rennes;0;0;2;1
-233;Lorient;Toulouse;1;1;2;2
-234;Lyon;Nancy;4;0;1;1
-235;Marseille;Guingamp;2;0;2;1
-236;Metz;Dijon;2;1;1;2
-237;Nice;St Etienne;1;0;1;3
-238;Bordeaux;Paris SG;0;3;0;1
-239;Dijon;Caen;2;0;1;0
-240;Guingamp;Lyon;2;1;2;2
-241;Lille;Angers;1;2;1;2
-242;Monaco;Metz;5;0;1;3
-243;Nancy;Montpellier;0;3;3;2
-244;Toulouse;Bastia;4;1;3;1
-245;Nantes;Marseille;3;2;1;1
-246;Rennes;Nice;2;2;1;2
-247;St Etienne;Lorient;4;0;0;0
-248;Bastia;Monaco;1;1;2;0
-249;Angers;Nancy;1;0;0;1
-250;Caen;Lille;0;1;1;1
-251;Lorient;Nice;0;1;3;2
-252;Marseille;Rennes;2;0;1;0
-253;Metz;Nantes;1;1;1;4
-254;Bordeaux;Guingamp;3;0;2;2
-255;Lyon;Dijon;4;2;1;4
-256;Montpellier;St Etienne;2;1;1;0
-257;Paris SG;Toulouse;0;0;1;3
-258;Caen;Nancy;1;0;3;2
-259;Nantes;Dijon;3;1;3;2
-260;Nice;Montpellier;2;1;2;0
-261;Angers;Bastia;3;0;2;0
-262;Guingamp;Monaco;1;2;3;2
-263;Lille;Bordeaux;2;3;4;2
-264;Nancy;Toulouse;0;0;2;3
-265;Rennes;Lorient;1;0;0;3
-266;Lyon;Metz;5;0;1;3
-267;Marseille;Paris SG;1;5;1;1
-268;St Etienne;Caen;0;1;0;2
-269;Bastia;Nantes;2;2;3;1
-270;Bordeaux;Lyon;1;1;5;4
-271;Bastia;St Etienne;0;0;1;1
-272;Caen;Angers;2;3;1;2
-273;Dijon;Nice;0;1;2;1
-274;Metz;Rennes;1;1;3;3
-275;Montpellier;Guingamp;1;1;1;0
-276;Paris SG;Nancy;1;0;2;3
-277;Lorient;Marseille;1;4;2;1
-278;Monaco;Nantes;4;0;2;2
-279;Toulouse;Lille;1;1;2;2
-280;Marseille;Angers;3;0;1;0
-281;Nice;Caen;2;2;2;1
-282;Guingamp;Bastia;5;0;0;2
-283;Monaco;Bordeaux;2;1;1;3
-284;Montpellier;Nantes;2;3;0;3
-285;Nancy;Lille;1;2;4;2
-286;Rennes;Dijon;1;1;2;1
-287;Lorient;Paris SG;1;2;2;1
-288;Lyon;Toulouse;4;0;1;2
-289;St Etienne;Metz;2;2;0;1
-290;Lille;Marseille;0;0;1;4
-291;Metz;Bastia;1;0;2;2
-292;Angers;Guingamp;3;0;2;1
-293;Bordeaux;Montpellier;5;1;0;0
-294;Nancy;Lorient;2;3;1;2
-295;Nantes;Nice;1;1;3;1
-296;Toulouse;Rennes;0;0;1;2
-297;Caen;Monaco;0;3;1;0
-298;Dijon;St Etienne;0;1;2;1
-299;Paris SG;Lyon;2;1;2;1
-300;Guingamp;Nancy;1;0;1;2
-301;Bastia;Lille;0;1;1;1
-302;Marseille;Dijon;1;1;2;4
-303;Lorient;Caen;1;0;1;1
-304;Montpellier;Toulouse;0;1;2;2
-305;Nantes;Angers;2;1;1;1
-306;Nice;Bordeaux;2;1;2;1
-307;Rennes;Lyon;1;1;1;1
-308;Metz;Lyon;0;3;3;1
-309;Lille;Nice;1;2;1;1
-310;Angers;Monaco;0;1;2;1
-311;Bordeaux;Metz;3;0;2;2
-312;Caen;Montpellier;0;2;4;3
-313;Dijon;Bastia;1;2;2;0
-314;Lyon;Lorient;1;4;3;1
-315;Nancy;Rennes;3;0;2;1
-316;Paris SG;Guingamp;4;0;1;2
-317;St Etienne;Nantes;1;1;3;2
-318;Toulouse;Marseille;0;0;2;2
-319;Angers;Paris SG;0;2;2;1
-320;Guingamp;Toulouse;2;1;3;2
-321;Metz;Caen;2;2;1;1
-322;Monaco;Dijon;2;1;1;3
-323;Montpellier;Lorient;2;0;1;2
-324;Nice;Nancy;3;1;1;2
-325;Rennes;Lille;2;0;1;2
-326;Bastia;Lyon;0;3;;
-327;Marseille;St Etienne;4;0;1;2
-328;Nantes;Bordeaux;0;1;1;3
-329;Metz;Paris SG;2;3;1;1
-330;Nancy;Marseille;0;0;0;2
-331;Bordeaux;Bastia;2;0;2;2
-332;Caen;Nantes;0;2;1;1
-333;Dijon;Angers;3;2;2;2
-334;Lille;Guingamp;3;0;0;2
-335;Lorient;Metz;5;1;1;1
-336;Paris SG;Montpellier;2;0;1;0
-337;Lyon;Monaco;1;2;2;1
-338;St Etienne;Rennes;1;1;1;3
-339;Toulouse;Nice;1;1;3;5
-340;Angers;Lyon;1;2;2;3
-341;Bastia;Rennes;1;0;1;1
-342;Guingamp;St Etienne;0;2;0;0
-343;Metz;Nancy;2;1;2;3
-344;Monaco;Toulouse;3;1;1;4
-345;Montpellier;Lille;0;3;1;2
-346;Nantes;Lorient;1;0;0;2
-347;Caen;Marseille;1;5;2;4
-348;Dijon;Bordeaux;0;0;0;1
-349;Nice;Paris SG;3;1;2;3
-350;St Etienne;Bordeaux;2;2;1;2
-351;Guingamp;Dijon;4;0;0;0
-352;Lille;Metz;0;2;1;0
-353;Lorient;Angers;1;1;1;0
-354;Nancy;Monaco;0;3;1;1
-355;Paris SG;Bastia;5;0;1;2
-356;Toulouse;Caen;0;1;3;2
-357;Lyon;Nantes;3;2;0;1
-358;Marseille;Nice;2;1;5;1
-359;Rennes;Montpellier;1;0;3;2
-360;Bastia;Lorient;2;0;3;2
-361;Bordeaux;Marseille;1;1;1;2
-362;Caen;Rennes;0;1;2;1
-363;Dijon;Nancy;2;0;2;2
-364;Metz;Toulouse;1;1;0;0
-365;Monaco;Lille;4;0;1;2
-366;Montpellier;Lyon;1;3;3;1
-367;Nantes;Guingamp;4;1;2;4
-368;Nice;Angers;0;2;1;1
-369;St Etienne;Paris SG;0;5;1;1
-370;Monaco;St Etienne;2;0;1;1
-371;Angers;Montpellier;2;0;0;2
-372;Guingamp;Metz;1;0;0;2
-373;Lille;Nantes;3;0;0;2
-374;Lorient;Bordeaux;1;1;2;2
-375;Lyon;Nice;3;3;0;1
-376;Marseille;Bastia;1;0;3;2
-377;Nancy;St Etienne;3;1;2;0
-378;Paris SG;Caen;1;1;0;1
-379;Rennes;Monaco;2;3;0;0
-380;Toulouse;Dijon;0;0;1;2
+0,HomeTeam,AwayTeam,FTHG,FTAG,HY,AY
+1,Bastia,Paris SG,0,1,3,3
+2,Monaco,Guingamp,2,2,3,4
+3,Bordeaux,St Etienne,3,2,1,2
+4,Caen,Lorient,3,2,1,2
+5,Dijon,Nantes,0,1,0,2
+6,Metz,Lille,3,2,2,2
+7,Montpellier,Angers,1,0,1,2
+8,Marseille,Toulouse,0,0,3,1
+9,Nancy,Lyon,0,3,4,2
+10,Nice,Rennes,1,0,0,1
+11,Lyon,Caen,2,0,3,4
+12,Angers,Nice,0,1,1,2
+13,Lille,Dijon,1,0,1,2
+14,Lorient,Bastia,0,3,2,4
+15,Nantes,Monaco,0,1,2,4
+16,Rennes,Nancy,2,0,4,2
+17,Toulouse,Bordeaux,4,1,1,3
+18,Guingamp,Marseille,2,1,0,1
+19,Paris SG,Metz,3,0,1,1
+20,St Etienne,Montpellier,3,1,1,1
+21,Marseille,Lorient,2,0,1,1
+22,Caen,Bastia,2,0,1,5
+23,Dijon,Lyon,4,2,2,2
+24,Metz,Angers,2,0,2,2
+25,Montpellier,Rennes,1,1,1,2
+26,Nancy,Guingamp,0,2,2,1
+27,Nice,Lille,1,1,2,2
+28,Bordeaux,Nantes,1,0,2,1
+29,Monaco,Paris SG,3,1,1,2
+30,St Etienne,Toulouse,0,0,2,1
+31,Paris SG,St Etienne,1,1,2,4
+32,Angers,Dijon,3,1,1,2
+33,Bastia,Toulouse,2,1,4,4
+34,Guingamp,Montpellier,1,1,1,1
+35,Lille,Monaco,1,4,3,1
+36,Lorient,Nancy,0,2,0,5
+37,Lyon,Bordeaux,1,3,2,1
+38,Nantes,Metz,0,3,1,4
+39,Nice,Marseille,3,2,2,3
+40,Rennes,Caen,2,0,2,1
+41,Caen,Paris SG,0,6,1,1
+42,Bordeaux,Angers,0,1,0,4
+43,Dijon,Metz,0,0,4,3
+44,Lorient,Lille,1,0,2,2
+45,Monaco,Rennes,3,0,1,1
+46,Nancy,Nantes,1,1,0,0
+47,Toulouse,Guingamp,2,1,4,3
+48,Marseille,Lyon,0,0,3,2
+49,Montpellier,Nice,1,1,1,1
+50,St Etienne,Bastia,1,0,2,4
+51,Lille,Toulouse,1,2,2,5
+52,Paris SG,Dijon,3,0,1,0
+53,Angers,Caen,2,1,0,1
+54,Bastia,Nancy,0,0,0,0
+55,Guingamp,Lorient,1,0,1,2
+56,Lyon,Montpellier,5,1,0,1
+57,Metz,Bordeaux,0,3,2,0
+58,Nantes,St Etienne,0,0,4,0
+59,Nice,Monaco,4,0,1,1
+60,Rennes,Marseille,3,2,1,1
+61,Toulouse,Paris SG,2,0,3,1
+62,Bastia,Guingamp,1,0,1,1
+63,Bordeaux,Caen,0,0,0,2
+64,Dijon,Rennes,3,0,1,1
+65,Lorient,Lyon,1,0,2,1
+66,Monaco,Angers,2,1,1,1
+67,Montpellier,Metz,0,1,2,3
+68,Marseille,Nantes,2,1,1,3
+69,Nancy,Nice,0,1,3,1
+70,St Etienne,Lille,3,1,3,1
+71,Rennes,Guingamp,1,0,2,1
+72,Caen,Toulouse,1,0,1,6
+73,Dijon,Montpellier,3,3,2,2
+74,Lille,Nancy,1,0,2,3
+75,Metz,Monaco,0,7,2,1
+76,Nantes,Bastia,1,0,4,3
+77,Paris SG,Bordeaux,2,0,1,1
+78,Angers,Marseille,1,1,1,0
+79,Lyon,St Etienne,2,0,3,1
+80,Nice,Lorient,2,1,2,3
+81,Nice,Lyon,2,0,3,3
+82,Toulouse,Monaco,3,1,2,1
+83,Bastia,Angers,1,2,2,0
+84,Guingamp,Lille,1,0,1,0
+85,Lorient,Nantes,1,2,4,4
+86,Montpellier,Caen,3,2,0,0
+87,Nancy,Paris SG,1,2,1,1
+88,Marseille,Metz,1,0,1,2
+89,Rennes,Bordeaux,1,1,1,2
+90,St Etienne,Dijon,1,1,1,3
+91,Monaco,Montpellier,6,2,2,0
+92,Angers,Toulouse,0,0,2,4
+93,Bordeaux,Nancy,1,1,1,3
+94,Dijon,Lorient,1,0,1,2
+95,Lille,Bastia,2,1,3,1
+96,Lyon,Guingamp,1,3,1,3
+97,Nantes,Rennes,1,2,1,3
+98,Caen,St Etienne,0,2,1,1
+99,Metz,Nice,2,4,4,0
+100,Paris SG,Marseille,0,0,0,2
+101,Lille,Paris SG,0,1,2,1
+102,Bastia,Dijon,0,0,1,1
+103,Guingamp,Angers,1,0,1,3
+104,Lorient,Montpellier,2,2,2,1
+105,Nancy,Caen,2,0,3,3
+106,St Etienne,Monaco,1,1,0,4
+107,Toulouse,Lyon,1,2,2,2
+108,Marseille,Bordeaux,0,0,1,1
+109,Nice,Nantes,4,1,1,3
+110,Rennes,Metz,1,0,0,3
+111,Montpellier,Marseille,3,1,1,1
+112,Angers,Lille,1,0,0,0
+113,Bordeaux,Lorient,2,1,3,2
+114,Dijon,Guingamp,3,3,0,1
+115,Lyon,Bastia,2,1,1,2
+116,Monaco,Nancy,6,0,0,1
+117,Nantes,Toulouse,1,1,4,2
+118,Caen,Nice,1,0,2,3
+119,Metz,St Etienne,0,0,2,0
+120,Paris SG,Rennes,4,0,1,2
+121,Lille,Lyon,0,1,2,3
+122,Lorient,Monaco,0,3,0,1
+123,Bastia,Montpellier,1,1,2,0
+124,Nancy,Dijon,1,0,1,3
+125,Paris SG,Nantes,2,0,0,1
+126,Rennes,Angers,1,1,2,2
+127,Toulouse,Metz,1,2,0,1
+128,Guingamp,Bordeaux,1,1,2,1
+129,Marseille,Caen,1,0,2,1
+130,St Etienne,Nice,0,1,2,1
+131,Rennes,Toulouse,1,0,2,2
+132,Bordeaux,Dijon,3,2,0,2
+133,Caen,Guingamp,1,1,0,2
+134,Metz,Lorient,3,3,2,2
+135,Monaco,Marseille,4,0,1,2
+136,Montpellier,Nancy,0,0,2,3
+137,Nantes,Lille,0,0,1,2
+138,Angers,St Etienne,1,2,3,3
+139,Lyon,Paris SG,1,2,1,6
+140,Nice,Bastia,1,1,0,3
+141,Dijon,Monaco,1,1,2,0
+142,Lille,Caen,4,2,0,1
+143,Lorient,Rennes,2,1,1,1
+144,Bastia,Bordeaux,1,1,2,4
+145,Guingamp,Nice,0,1,2,1
+146,Nancy,Metz,4,0,5,2
+147,Nantes,Lyon,0,6,1,1
+148,Paris SG,Angers,2,0,2,1
+149,St Etienne,Marseille,0,0,0,1
+150,Toulouse,Montpellier,1,0,2,3
+151,Caen,Dijon,3,3,4,2
+152,Angers,Lorient,2,2,0,1
+153,Bordeaux,Lille,0,1,2,4
+154,Guingamp,Nantes,2,0,0,2
+155,Monaco,Bastia,5,0,3,3
+156,Montpellier,Paris SG,3,0,0,2
+157,Marseille,Nancy,3,0,1,1
+158,Nice,Toulouse,3,0,0,2
+159,Rennes,St Etienne,2,0,3,2
+160,Bastia,Metz,2,0,2,2
+161,Bordeaux,Monaco,0,4,3,1
+162,Dijon,Marseille,1,2,1,2
+163,Lille,Montpellier,2,1,1,1
+164,Nancy,Angers,2,0,1,1
+165,Toulouse,Lorient,3,2,2,0
+166,Lyon,Rennes,1,0,3,0
+167,Paris SG,Nice,2,2,2,3
+168,St Etienne,Guingamp,1,0,0,2
+169,Angers,Nantes,0,2,1,3
+170,Guingamp,Paris SG,2,1,0,0
+171,Lorient,St Etienne,2,1,4,2
+172,Montpellier,Bordeaux,4,0,2,2
+173,Rennes,Bastia,1,2,1,0
+174,Toulouse,Nancy,1,1,1,3
+175,Caen,Metz,3,0,2,3
+176,Marseille,Lille,2,0,0,0
+177,Monaco,Lyon,1,3,4,2
+178,Nice,Dijon,2,1,1,3
+179,Bastia,Marseille,1,2,1,3
+180,Bordeaux,Nice,0,0,2,2
+181,Dijon,Toulouse,2,0,2,4
+182,Lille,Rennes,1,1,1,1
+183,Lyon,Angers,2,0,0,2
+184,Metz,Guingamp,2,2,2,1
+185,Monaco,Caen,2,1,3,0
+186,Nantes,Montpellier,1,0,2,0
+187,Paris SG,Lorient,5,0,0,1
+188,St Etienne,Nancy,0,0,1,1
+189,Lille,St Etienne,1,1,0,3
+190,Angers,Bordeaux,1,1,4,3
+191,Lorient,Guingamp,3,1,2,3
+192,Montpellier,Dijon,1,1,0,0
+193,Nancy,Bastia,1,0,2,0
+194,Rennes,Paris SG,0,1,0,2
+195,Toulouse,Nantes,0,1,1,3
+196,Caen,Lyon,3,2,3,3
+197,Marseille,Monaco,1,4,1,1
+198,Nice,Metz,0,0,2,1
+199,Nantes,Caen,1,0,2,2
+200,Bastia,Nice,1,1,1,0
+201,Bordeaux,Toulouse,1,0,2,1
+202,Dijon,Lille,0,0,2,2
+203,Guingamp,Rennes,1,1,2,2
+204,Metz,Montpellier,2,0,1,2
+205,Nantes,Paris SG,0,2,2,1
+206,Lyon,Marseille,3,1,1,2
+207,Monaco,Lorient,4,0,1,1
+208,St Etienne,Angers,2,1,2,3
+209,Marseille,Montpellier,5,1,1,1
+210,Angers,Metz,2,1,0,0
+211,Bastia,Caen,1,1,2,2
+212,Lorient,Dijon,2,3,4,3
+213,Lyon,Lille,1,2,1,3
+214,Nancy,Bordeaux,0,2,0,2
+215,Rennes,Nantes,1,1,3,1
+216,Nice,Guingamp,3,1,3,3
+217,Paris SG,Monaco,1,1,0,1
+218,Toulouse,St Etienne,0,3,2,4
+219,Metz,Marseille,1,0,1,3
+220,Bordeaux,Rennes,1,1,1,1
+221,Dijon,Paris SG,1,3,1,2
+222,Guingamp,Caen,0,1,1,2
+223,Lille,Lorient,0,1,1,1
+224,Monaco,Nice,3,0,1,1
+225,Montpellier,Bastia,2,1,3,1
+226,Nantes,Nancy,0,2,2,1
+227,St Etienne,Lyon,2,0,2,2
+228,Toulouse,Angers,4,0,2,4
+229,Caen,Bordeaux,0,4,1,1
+230,Montpellier,Monaco,1,2,1,1
+231,Paris SG,Lille,2,1,1,3
+232,Angers,Rennes,0,0,2,1
+233,Lorient,Toulouse,1,1,2,2
+234,Lyon,Nancy,4,0,1,1
+235,Marseille,Guingamp,2,0,2,1
+236,Metz,Dijon,2,1,1,2
+237,Nice,St Etienne,1,0,1,3
+238,Bordeaux,Paris SG,0,3,0,1
+239,Dijon,Caen,2,0,1,0
+240,Guingamp,Lyon,2,1,2,2
+241,Lille,Angers,1,2,1,2
+242,Monaco,Metz,5,0,1,3
+243,Nancy,Montpellier,0,3,3,2
+244,Toulouse,Bastia,4,1,3,1
+245,Nantes,Marseille,3,2,1,1
+246,Rennes,Nice,2,2,1,2
+247,St Etienne,Lorient,4,0,0,0
+248,Bastia,Monaco,1,1,2,0
+249,Angers,Nancy,1,0,0,1
+250,Caen,Lille,0,1,1,1
+251,Lorient,Nice,0,1,3,2
+252,Marseille,Rennes,2,0,1,0
+253,Metz,Nantes,1,1,1,4
+254,Bordeaux,Guingamp,3,0,2,2
+255,Lyon,Dijon,4,2,1,4
+256,Montpellier,St Etienne,2,1,1,0
+257,Paris SG,Toulouse,0,0,1,3
+258,Caen,Nancy,1,0,3,2
+259,Nantes,Dijon,3,1,3,2
+260,Nice,Montpellier,2,1,2,0
+261,Angers,Bastia,3,0,2,0
+262,Guingamp,Monaco,1,2,3,2
+263,Lille,Bordeaux,2,3,4,2
+264,Nancy,Toulouse,0,0,2,3
+265,Rennes,Lorient,1,0,0,3
+266,Lyon,Metz,5,0,1,3
+267,Marseille,Paris SG,1,5,1,1
+268,St Etienne,Caen,0,1,0,2
+269,Bastia,Nantes,2,2,3,1
+270,Bordeaux,Lyon,1,1,5,4
+271,Bastia,St Etienne,0,0,1,1
+272,Caen,Angers,2,3,1,2
+273,Dijon,Nice,0,1,2,1
+274,Metz,Rennes,1,1,3,3
+275,Montpellier,Guingamp,1,1,1,0
+276,Paris SG,Nancy,1,0,2,3
+277,Lorient,Marseille,1,4,2,1
+278,Monaco,Nantes,4,0,2,2
+279,Toulouse,Lille,1,1,2,2
+280,Marseille,Angers,3,0,1,0
+281,Nice,Caen,2,2,2,1
+282,Guingamp,Bastia,5,0,0,2
+283,Monaco,Bordeaux,2,1,1,3
+284,Montpellier,Nantes,2,3,0,3
+285,Nancy,Lille,1,2,4,2
+286,Rennes,Dijon,1,1,2,1
+287,Lorient,Paris SG,1,2,2,1
+288,Lyon,Toulouse,4,0,1,2
+289,St Etienne,Metz,2,2,0,1
+290,Lille,Marseille,0,0,1,4
+291,Metz,Bastia,1,0,2,2
+292,Angers,Guingamp,3,0,2,1
+293,Bordeaux,Montpellier,5,1,0,0
+294,Nancy,Lorient,2,3,1,2
+295,Nantes,Nice,1,1,3,1
+296,Toulouse,Rennes,0,0,1,2
+297,Caen,Monaco,0,3,1,0
+298,Dijon,St Etienne,0,1,2,1
+299,Paris SG,Lyon,2,1,2,1
+300,Guingamp,Nancy,1,0,1,2
+301,Bastia,Lille,0,1,1,1
+302,Marseille,Dijon,1,1,2,4
+303,Lorient,Caen,1,0,1,1
+304,Montpellier,Toulouse,0,1,2,2
+305,Nantes,Angers,2,1,1,1
+306,Nice,Bordeaux,2,1,2,1
+307,Rennes,Lyon,1,1,1,1
+308,Metz,Lyon,0,3,3,1
+309,Lille,Nice,1,2,1,1
+310,Angers,Monaco,0,1,2,1
+311,Bordeaux,Metz,3,0,2,2
+312,Caen,Montpellier,0,2,4,3
+313,Dijon,Bastia,1,2,2,0
+314,Lyon,Lorient,1,4,3,1
+315,Nancy,Rennes,3,0,2,1
+316,Paris SG,Guingamp,4,0,1,2
+317,St Etienne,Nantes,1,1,3,2
+318,Toulouse,Marseille,0,0,2,2
+319,Angers,Paris SG,0,2,2,1
+320,Guingamp,Toulouse,2,1,3,2
+321,Metz,Caen,2,2,1,1
+322,Monaco,Dijon,2,1,1,3
+323,Montpellier,Lorient,2,0,1,2
+324,Nice,Nancy,3,1,1,2
+325,Rennes,Lille,2,0,1,2
+326,Bastia,Lyon,0,3,,
+327,Marseille,St Etienne,4,0,1,2
+328,Nantes,Bordeaux,0,1,1,3
+329,Metz,Paris SG,2,3,1,1
+330,Nancy,Marseille,0,0,0,2
+331,Bordeaux,Bastia,2,0,2,2
+332,Caen,Nantes,0,2,1,1
+333,Dijon,Angers,3,2,2,2
+334,Lille,Guingamp,3,0,0,2
+335,Lorient,Metz,5,1,1,1
+336,Paris SG,Montpellier,2,0,1,0
+337,Lyon,Monaco,1,2,2,1
+338,St Etienne,Rennes,1,1,1,3
+339,Toulouse,Nice,1,1,3,5
+340,Angers,Lyon,1,2,2,3
+341,Bastia,Rennes,1,0,1,1
+342,Guingamp,St Etienne,0,2,0,0
+343,Metz,Nancy,2,1,2,3
+344,Monaco,Toulouse,3,1,1,4
+345,Montpellier,Lille,0,3,1,2
+346,Nantes,Lorient,1,0,0,2
+347,Caen,Marseille,1,5,2,4
+348,Dijon,Bordeaux,0,0,0,1
+349,Nice,Paris SG,3,1,2,3
+350,St Etienne,Bordeaux,2,2,1,2
+351,Guingamp,Dijon,4,0,0,0
+352,Lille,Metz,0,2,1,0
+353,Lorient,Angers,1,1,1,0
+354,Nancy,Monaco,0,3,1,1
+355,Paris SG,Bastia,5,0,1,2
+356,Toulouse,Caen,0,1,3,2
+357,Lyon,Nantes,3,2,0,1
+358,Marseille,Nice,2,1,5,1
+359,Rennes,Montpellier,1,0,3,2
+360,Bastia,Lorient,2,0,3,2
+361,Bordeaux,Marseille,1,1,1,2
+362,Caen,Rennes,0,1,2,1
+363,Dijon,Nancy,2,0,2,2
+364,Metz,Toulouse,1,1,0,0
+365,Monaco,Lille,4,0,1,2
+366,Montpellier,Lyon,1,3,3,1
+367,Nantes,Guingamp,4,1,2,4
+368,Nice,Angers,0,2,1,1
+369,St Etienne,Paris SG,0,5,1,1
+370,Monaco,St Etienne,2,0,1,1
+371,Angers,Montpellier,2,0,0,2
+372,Guingamp,Metz,1,0,0,2
+373,Lille,Nantes,3,0,0,2
+374,Lorient,Bordeaux,1,1,2,2
+375,Lyon,Nice,3,3,0,1
+376,Marseille,Bastia,1,0,3,2
+377,Nancy,St Etienne,3,1,2,0
+378,Paris SG,Caen,1,1,0,1
+379,Rennes,Monaco,2,3,0,0
+380,Toulouse,Dijon,0,0,1,2
